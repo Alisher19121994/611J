@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> 言語を選択する</string>
+    <string name="uzbek">ウズベク語</string>
+    <string name="korean">韓国語</string>
+    <string name="chinese">中国語</string>
+    <string name="japanese">日本</string>
+</resources>

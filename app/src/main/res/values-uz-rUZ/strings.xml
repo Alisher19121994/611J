@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilni tanlang</string>
+    <string name="uzbek">Uzbek tili</string>
+    <string name="korean">Kares tili</string>
+    <string name="chinese">Xitoy tili</string>
+    <string name="japanese">Yapon tili</string>
+</resources>

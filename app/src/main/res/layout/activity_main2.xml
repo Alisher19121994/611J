@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_uzbek"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#32EAD4"
+            android:text="@string/uzbek" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_japanese"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#32EAD4"
+            android:text="@string/japanese" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_korean"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#32EAD4"
+            android:text="@string/korean" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/b_chinese"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#32EAD4"
+            android:text="@string/chinese" />
+
+    </LinearLayout>
+
+</LinearLayout>
